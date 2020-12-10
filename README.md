@@ -2,6 +2,8 @@
 
 ![alt text](https://i.ibb.co/svvCSf4/image.png) ![alt text](https://i.ibb.co/wC6XJdT/image.png)![alt text](https://i.ibb.co/mTZQPpz/image.png) ![alt text](https://i.ibb.co/D4kCxxm/image.png)
 
+[![Open In Colab](https://colab.research.google.com/github/giganttheo/DPP/blob/master/DPP_Notebook.ipynb)
+
 Les processus ponctuels déterminantaux (DPP) permettent d'effectuer des tirages aléatoires avec répulsion.
 Pour ce projet, nous avons étudié les DPP finies, démontré les théorèmes et algorithmes de base, et nous avons implémenté en python un algorithme d'échantillonage de DPP, accompagné d'exemples d'applications dans un notebook Google Colaboratory.
 
